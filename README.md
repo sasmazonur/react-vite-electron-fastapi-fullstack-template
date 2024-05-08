@@ -26,11 +26,5 @@ To get started with the project, follow these steps:
 
 2. Navigate to this [Article](https://medium.com/@onursasmaz)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
+## Notes
 Feel free to adjust the content as needed to better suit your project's specifics or personal preferences.
-```
