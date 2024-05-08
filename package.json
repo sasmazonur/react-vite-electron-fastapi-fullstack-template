@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\" \"npm run start-electron\"",
+    "start-backend": "cd backend && uvicorn main:app --reload --host localhost --port 8000",
+    "start-frontend": "cd frontend && npm run dev",
+    "start-electron": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^15.3.0",
+    "concurrently": "^7.0.0"
+  }
+}
