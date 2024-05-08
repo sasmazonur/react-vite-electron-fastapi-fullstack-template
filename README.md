@@ -1,6 +1,3 @@
-Certainly! Here's another version of the README.md:
-
-
 # React, Vite, Electron, and FastAPI Full-Stack Application
 
 Welcome to our full-stack application built with React, Vite, Electron, and FastAPI! This project combines modern front-end and back-end technologies to create a powerful and seamless user experience.
